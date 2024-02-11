@@ -1,0 +1,4 @@
+- This is a list of challanges solved using JS code.
+- Good way to improve your skills with JS functions, specially manipulating Arrays, Strings, Objects.
+- If you need help with anything hit me up and I'll send you my notes about every function that I used.
+- The exercises are part of a series of exercises from Scrimba.
